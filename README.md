@@ -1,10 +1,10 @@
 <h2 align="center"> ¡Holaa, soy Tiziano Galetto! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
 
-<p align="center">
+<div align="center">
   <a href="mailto:tizianogaletto1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/tiziano-galetto/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://portafolio-psi-sand-89.vercel.app/"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+</div>
 
 <h2 align="left">👨🏻‍💻 Acerca de mí:</h2>
 
