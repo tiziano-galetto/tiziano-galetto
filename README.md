@@ -6,6 +6,10 @@
   <a href="https://portafolio-psi-sand-89.vercel.app/"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </div>
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=tiziano-galetto.tiziano-galetto&left_color=blue&right_color=blue&left_text=Visitas"  />
+</div>
+
 <h2 align="left">👨🏻‍💻 Acerca de mí:</h2>
 
 <p align="center">
@@ -42,6 +46,6 @@
 
 <h2 align="left">🔥 Estadísticas:</h2>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tiziano-galetto&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph" />
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=tiziano-galetto&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="225" alt="streak graph"  />
 </div>
