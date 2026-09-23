@@ -6,10 +6,6 @@
   <a href="https://portafolio-psi-sand-89.vercel.app/"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </div>
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=tiziano-galetto.tiziano-galetto&left_color=blue&right_color=blue&left_text=Visitas"  />
-</div>
-
 <img src = "Imagenes/5.png" height="250" width="100%">
 
 <img src = "Imagenes/6.png" height="250" width="100%">
