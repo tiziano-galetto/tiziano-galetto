@@ -12,7 +12,7 @@
 
 <img src = "Imagenes/6.png" height="250" width="100%">
 
-<img src = "Imagenes/Banner Para LinkedIn Licenciada En Marketing Minimalista Beige.png.png" height="75" width="100%">
+<img src = "Imagenes/7.png" height="75" width="100%">
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=tiziano-galetto&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="225" alt="streak graph"  />
